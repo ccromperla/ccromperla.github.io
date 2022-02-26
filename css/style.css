@@ -1,0 +1,39 @@
+h1{
+    font-size: 80px; 
+}
+
+.blue{
+    color: blue;
+}
+
+.red{
+    color: red;
+}
+
+.purple{
+    color: purple;
+}
+
+#green{
+    color: #32a852;
+}
+
+.alignLeft{
+    text-align: left;
+}
+
+.alignCenter{
+    text-align: center;
+}
+
+.alignRight{
+    text-align: right
+}
+
+.white{
+    color: white;
+}
+
+.blackBackground{
+    background-color: black;
+}
