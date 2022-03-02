@@ -1,0 +1,21 @@
+.favtable th{
+    padding: 10pt 10pt 10pt 10pt;
+}
+
+.favtable td{
+    padding: 5pt 5pt 5pt 5pt;
+}
+
+.favtable tr:nth-child(even){
+    background-color: burlywood;
+}
+
+.favtable tr:nth-child(odd){
+    background-color: olivedrab;
+}
+
+.favtable tr:hover{
+    background-color: bisque;
+    font-weight: bold;
+}
+
